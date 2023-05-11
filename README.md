@@ -1,4 +1,12 @@
-# language_classification
+# A COMPARATIVE STUDY ON ENCODING SCHEMES TOWARDS LANGUAGE DETECTION
+
+### Suvankar Das (suvankar_das@outlook.com)
+### Guide: Dr. Uddalak Mitra
+### Siliguri Institute of Technology, Siliguri, WB, IND
+
+#### April, 2023
+
+<br>
 
 This paper presents an investigation of language identification using various encoding methods and machine learning algorithms. Specifically, we compared five encoding methods: Bag of Words, TF-IDF, Word2Vec, FastText, and GloVe, and ten machine learning models: Multinomial Naive Bayes, Support Vector Machine, Random Forest, Gradient Boosting Classifier, Decision Tree Classifier, K-Nearest Neighbors Classifier, AdaBoost Classifier, Logistic Regression, Extra Trees Classifier, and XG Boost. 
 
