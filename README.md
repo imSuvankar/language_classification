@@ -1,8 +1,6 @@
 # A COMPARATIVE STUDY ON ENCODING SCHEMES TOWARDS LANGUAGE DETECTION
 
-### Suvankar Das (suvankar_das@outlook.com)
-### Guide: Dr. Uddalak Mitra
-### Siliguri Institute of Technology, Siliguri, WB, IND
+#### Suvankar Das (suvankar_das@outlook.com)<br>Guide: Dr. Uddalak Mitra<br>Siliguri Institute of Technology, Siliguri, WB, IND
 
 #### April, 2023
 
