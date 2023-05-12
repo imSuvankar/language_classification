@@ -4,5 +4,5 @@ Folder link: <i>[click here](https://drive.google.com/drive/folders/1rcy998kcWim
 
 <br>
 
-> Also, if you want to use the origin al **WiLi-2018** dataset, *[here](https://www.kaggle.com/datasets/sharansmenon/wili-2018)* is the link. <br>
+> Also, if you want to use the original **WiLi-2018** dataset, *[here](https://www.kaggle.com/datasets/sharansmenon/wili-2018)* is the link. <br>
 > It has about about 200k instances for 235 languages.
