@@ -12,7 +12,7 @@ This paper presents an investigation of language identification using various en
 4. FastText
 5. GloVe 
 ```
-and 15 machine learning models:
+and 17 machine learning models:
 
 ```
 1. Multinomial Naive Bayes
@@ -30,6 +30,8 @@ and 15 machine learning models:
 13. Multilayer Perceptron
 14. Lasso Regression
 15. XG Boost
+16. CNN
+17. RNN (LSTM)
 ```
 
 We evaluated the performance of each combination on four different datasets with different language distributions. Our study found that the FastText encoding method combined with the Extra Trees Classifier model outperformed the Bag of Words encoding method combined with the Multinomial Naive Bayes model despite being the most used combination in language detection tasks. Furthermore, we discovered that the choice of encoding method and machine learning model greatly impacts the accuracy of language identification, with some combinations performing significantly better than others. 
